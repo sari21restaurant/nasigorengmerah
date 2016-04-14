@@ -1,0 +1,2 @@
+# nasigorengmerah
+penyimpanan data
